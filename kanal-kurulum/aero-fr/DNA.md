@@ -31,9 +31,9 @@ Sahne · Kural kırma · Sonuç önce · Çelişki (brochure/soufflerie). Soru h
 ## Ses DNA'sı (hedef) ve referans
 | Ölçü | Hedef | Rakip hit bandı | Referans §2.2 |
 |---|---|---|---|
-| Karakter/dk | 850 (FR TTS, ölçülecek) | States 831–842; Mach Line ~1.000 (çok hızlı) | 740–1.052 |
+| Karakter/dk | 850 (FR TTS, ölçülecek) | States 831–842; Mach Line ~1.000 (çok hızlı); Un Ciel EN dublaj parçası 926–1.036 (FR ölçülemedi) | 740–1.052 |
 | Kelime/dk | 140–160 | 150–159 / 188–194 | 123–195 |
-| Cümle medyanı | 10–12 kelime | 10–15 | — |
+| Cümle medyanı | 10–12 kelime | 10–15 (Un Ciel 18–20, "trop long" şikâyeti) | — |
 | ≤8 / 9–16 / 17+ % | 35–40 / 40–45 / ≤20 | 25–39 / 33–54 / 14–42 | — |
 | Soru oranı | ≤ %3 | hit 0–5, flop 3–6 | 0–6, medyan 1 |
 | Hitap/100k | 1–2 | 0,75–2,16 | 0,5–4,7 |
@@ -52,6 +52,9 @@ Rakip medyan 23,6 dk (States), 26 dk (Mach Line). Ses hızı 850 kr/dk (tahmini)
 - İlk CTA %4–9, orta video CTA yok (Senaryo).
 - Son beşte bir somutluğu ≥ %80 (Senaryo).
 - Ayırmayan (kural yok): hız, cümle uzunluğu, hype cümlesi sayısı, süre.
+
+## FR doğrudan rakip (Un Ciel, Mille Histoires) ölçümleri
+3 transkript (EN dublaj parçası): cümle medyanı 18–20 kelime, 17+ kelime %55–72; soru %1–3; hitap 0,17–0,28; birinci şahıs 0 (persona yok); açılış özgüllük 12–13 (tarihli sahne, iyi); somutluk son %20 çöküyor (10,4→4,4; 7,3→1,7); başlık iddiası 6–14 cümlede tekrar; ilk CTA %18–20 veya yok; sonda ödül yok; kapanış ikili soru. Kural çıkarımı: kısa cümle, tekrar ≤ 3, persona, sonda sayı, erken CTA, sonda kanıt yoğunluğu.
 
 ## Öğrenilmiş kurallar
 (başta boş — §11.2 retention geri beslemesiyle dolar)

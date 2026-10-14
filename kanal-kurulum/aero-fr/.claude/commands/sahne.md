@@ -1,0 +1,2 @@
+Girdi: $ARGUMENTS (SRT dosyası yolu; yoksa SENARYO.md'yi 850 karakter/dakika ile zamanla).
+PROMPTLAR.md §2 ve KONSEPT.md görsel dil + karakter bloğunu uygula. Tempo: 0–30 sn her 3–4 sn, 30–60 sn her 5 sn, sonrası her 6–7 sn. Her sahne satırı: zaman aralığı · fotogerçekçi Flow promptu (İngilizce) · uçak tipi referans tarifi zorunlu · tarih-konum damgası metni · kaynak atfı metni. Henri yalnızca sabit sahnelerde. Çıktı: SAHNELER.md (tablo) ve sahneler.csv (Flow/AutoEditor için: start,end,prompt).

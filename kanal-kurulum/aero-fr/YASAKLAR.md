@@ -31,6 +31,10 @@
 28. Choisissez quel spectateur vous êtes (rakip CTA kalıbının birebir çevirisi; bizim biçim: "Il y a deux sortes de spectateurs… Je vous laisse choisir.")
 29. Üst üste iki soru cümlesi
 30. Dört ardışık bağlam paragrafı (kanıtsız)
+31. Başlık iddiasının 3'ten fazla tekrarı (rakip FR kanal şikâyeti: "tout a été dit en 5 minutes")
+32. "la France, elle, …" başlık kalıbı (Un Ciel, Mille Histoires imzası)
+33. "Souveraineté avec le Rafale, ou sécurité du connu avec le F-35" (rakip CTA cümlesi)
+34. 17 kelimeden uzun cümlelerin %20'yi aşması
 
 ## Kötü → düzeltilmiş (5 çift)
 1. Kötü: *Des experts affirment que ce chasseur est le plus avancé du monde.*

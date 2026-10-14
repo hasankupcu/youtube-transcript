@@ -428,3 +428,47 @@ HAP izi: Yapı Genomu → imza geçişler, Süre Eşleme → HEDEF_KARAKTER/SES_
 
 ## Veri kaynakları ve etiketler
 Z (ölçülen): NexLev `youtube_channel_videos` (States 2050 82, Polarisyn 49, Mach Line 9), `about`, `geography_revenue`, `check_faceless`, `comments` (3 video, 60 yorum), `get_bulk_video_transcripts` (11), `youtube_search` ×4 (DE/FR/ES/IT), `search_niche_finder_channels` ×4, `get_similar_channels` (99 kanal), vidIQ `keyword_research` ×2; `hap.py rontgen/damar/olc`. Tahmini: Gemini görsel ölçüm (2 video, 0–90 sn), NexLev RPM ve demografi. Elle/çıkarım: Mach Line tireli başlık gözlemi (n=9), kardeş kanal ağı (slogan eşleşmesi), kırılma tipi okuması, duygu eğrisi.
+
+---
+
+## PIVOT (2026-10-14) — Haskan: "bu açı Fransa'nın ilgisini çekmez" → Fransa ekseni
+Veri Haskan'ı doğruladı. FR, son 30 gün, uzun video:
+| Video | Kanal | Görüntüleme | Süre | Not |
+|---|---|---|---|---|
+| Rafale vs F-35 : ce que les médias ne vous disent pas | ATE CHUET (eski Rafale pilotu, yüzlü) | 316.723 | 39 dk | Talep kanıtı; rakip seti dışı (yüze bağlı) |
+| Le nouveau « Super Rafale » surpasserait le F35 américain | Christopher Lannes | 45.983 | 16 dk | |
+| BOEING et AIRBUS ont ÉCHOUÉ… cette START-UP de 5 ans | L'ÈRE DES INVENTIONS | 19.636 | 18 dk | ABD konusu ama Avrupa devleri karşıt |
+| Washington exige le F-35, la France répond avec 180 usines portugaises | Un Ciel, Mille Histoires (faceless) | 13.527 | 26 dk | Kanal medyanının 2,5 katı |
+| Ils riaient des capacités du Rafale | Pouvoir Aérien Secrets | 4.296 | 12 dk | |
+| L'Arme Secrète de la France Face aux USA : L'Indépendance Totale | Frontline Archives (AI) | 970 | 28 dk | |
+Önceki F1 konu listesinde saf ABD konuları (F-47, B-21, JetZero) öndeydi; FR'de bu konuların yerli kanıtı yok. **Yeni damar: Fransa × Amerika × egemenlik (Rafale, Dassault, Airbus, 1966).**
+
+### FR doğrudan rakip: Un Ciel, Mille Histoires (@MilleHistoires14)
+| Alan | Değer |
+|---|---|
+| Kimlik | Katılma 2026-03-17; 7 ayda 201 video (haftada ~7); 8.080 abone; 2,47M görüntüleme; faceless %96; ort. süre 29,8 dk; çok dilli ses parçası (EN dublaj var → Kanada %19). Havacılık tarihi kanalıyken Fransa × F-35 damarına dönmüş. |
+| Ekonomi | RPM 3,99; ~318K görüntüleme/ay; FR 49 / CA 19 / MA 13 / BE 10 / CH 9. Demografi: erkek %93; 45+ %44 (65+ %16). |
+| Formül | "[ABD/Almanya/Kanada] [F-35 eylemi] — la France, elle, [egemenlik]"; kapanış CTA "Souveraineté avec le Rafale, ou sécurité du connu avec le F-35 — vous choisiriez quoi ?" |
+| Metin (3 transkript, EN parçası) | Cümle medyanı 18–20 kelime, 17+ kelime %55–72; persona yok; başlık iddiası 6–14 kez tekrar; ilk CTA %18–20 veya yok; sonda ödül yok; açılış tarihli sahne (özgüllük 12–13, iyi); somutluk son %20 çöküyor. |
+| Şikâyetler (59 yorum) | "Tout a été dit en 5 minutes, la vidéo dure 26 minutes, c'est pénible" (12) · "Images sans rapport avec le texte" (3) · "beaucoup de répétitions" · "trop de blabla" · "si c'est de l'IA vous devez le dire" (3) |
+| Röntgen (video listesi) | Toplanıyor; tamamlanınca bu bölüme P90 kalıpları ve kaldıraçlar eklenir. |
+
+### Şikâyet → Fark (FR kitle)
+| Şikâyet | Bizim kural |
+|---|---|
+| 26 dakikada 5 dakikalık bilgi, tekrar | Başlık iddiası ≤ 3 tekrar; her paragraf yeni kanıt; E payı ≥ %40 |
+| Görüntü metinle ilgisiz | Flow sahne = cümle (SRT'den), uçak tipi referans tarifi zorunlu |
+| AI sesi gizleniyor | Ses yavaş ve kısa cümle; dürüstlük konumu (kaynaklar ekranda) |
+| Cümleler uzun | Medyan 10–12 kelime, 17+ ≤ %20 |
+| Persona yok | Henri Vasseur, Dassault/Airbus geçmişi, 1966'dan bugüne bağımsızlık anlatısı |
+
+### Yeni konum cümlesi
+*La France face à l'Amérique dans le ciel : un ingénieur aéronautique français à la retraite raconte ce que le Rafale, Dassault et Airbus ont refusé, choisi ou raté — ce que la brochure promet, ce que la physique permet, et ce que coûte vraiment l'indépendance.*
+
+### Yeni konu listesi
+KONULAR.md (15 konu, TR + FR başlık + sahne + sonda sayı + kanıt). İlk 5: F-35 anahtarları · Portekiz 180 fabrika · Super Rafale F5 · Boeing iki avcı / Rafale Marine · F-117 yirmi yıl gizli.
+
+### Değişen dosyalar
+CLAUDE.md v1.1-FR (konum, Fransa ekseni kuralı, tekrar kuralı, yeni örnek hook) · KONSEPT.md (konum, damarlar, aktarılamazlar) · ALTIN_ORNEKLER.md (örnek 1 yeniden) · YASAKLAR.md (31–34) · DNA.md (Un Ciel ölçümleri) · KONULAR.md (yeni) · `.claude/commands/` (script, paket, sahne, kontrol).
+
+Mesafe Skoru (yeniden, Format modu, kaynak = Un Ciel + Mach Line iskeleti): Vaat 1 · Yapı 0 · Duygu 0 · Konu 1 · Anlatıcı 2 (persona yok → isimli mühendis) · Kitle 0 · Coğrafya/dil 1 (aynı dil, farklı anlatıcı ülkesi yok) · Paket 1 = **6** (bant 5–7 ✔). Grid hücresi FR × "Fransa × F-35" belgesel: Un Ciel (medyan 5,3K, 7/hafta) + ATE CHUET (yüzlü) + 2 küçük → **Açık** (aynı paketle düzenli işleyen güçlü faceless kanal 1).
