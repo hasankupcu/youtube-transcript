@@ -1,5 +1,6 @@
 # KONULAR.md — ilk 15 video (Fransa ekseni; sıra = yayın sırası)
-Format: TR konu · FR başlık · açılış sahnesi · sonda verilecek sayı · talep kanıtı. Rakam yalnızca nesne adında; "vous" yok; soru işareti yok.
+Format: TR konu · FR başlık · açılış sahnesi · sonda verilecek sayı · talep kanıtı.
+Başlık kuralı (Un Ciel röntgeni, 194 video): **Fransa aktif özne + başarı fiili; Amerika/rakip pasif veya mağlup.** Fransa'nın pasif, tereddütlü veya suçlu göründüğü başlıklar P25'te (0,07–0,10). Rakam FR'de serbest ("3 pays" 5,1x, "46 milliards"); "vous" yok; soru işareti yok; saf tarih yok (güncel tarihli olay + tarih köprüsü).
 
 ## 1. Fransa F-35'i neden asla almayacak: anahtarlar kimde
 - FR: *Pourquoi la France n'achètera jamais le F-35 — la réponse d'un ingénieur*
@@ -42,8 +43,8 @@ Format: TR konu · FR başlık · açılış sahnesi · sonda verilecek sayı ·
 - Sahne: 23 Eylül 2026, ilk Kanada F-35A; Québec izleyici %19 (rakip coğrafyası).
 - Sonda sayı: Kanada'nın ömür boyu F-35 maliyeti (resmî denetim raporu).
 
-## 8. SCAF 2040'ta gelecek, F-47 on yıl önce uçacak: Avrupa geç mi kaldı
-- FR: *Le chasseur européen arrivera en 2040 — l'Amérique volera dix ans avant*
+## 8. Fransa F-47'yi kopyalamayı reddetti: SCAF neden başka bir uçak
+- FR: *La France a refusé de copier le F-47 — voici ce que le SCAF fera à la place*
 - Sahne: Paris–Berlin SCAF kavgası; Boeing St. Louis'de F-47 gövdesi.
 - Sonda sayı: SCAF'ın bugüne kadar harcanan bütçesi.
 
@@ -63,13 +64,13 @@ Format: TR konu · FR başlık · açılış sahnesi · sonda verilecek sayı ·
 - Sonda sayı: J58 motorunda itkinin yüzde kaçının reaktörden geldiği (17).
 - Kanıt: Mach Line aynı konu 102K/1 gün; Talep Kuyruğu hipersonik.
 
-## 12. Boom Overture ve Concorde: Amerika Fransa'nın bıraktığı yeri alıyor
-- FR: *L'Amérique veut faire revoler le supersonique — la France l'avait abandonné en 2003*
+## 12. Concorde bunu 1969'da yaptı, Amerika hâlâ deniyor: Boom Overture
+- FR: *Le Concorde l'a fait en 1969 — l'Amérique essaie encore avec Boom*
 - Sahne: 24 Ekim 2003 Heathrow son Concorde inişi; Denver'da Overture gövdesi.
 - Sonda sayı: Concorde'un son yılında sefer başına kaybettiği miktar (kaynaklı).
 
-## 13. Airbus hidrojen uçağını erteledi, Amerika kanat-gövdeyi seçti
-- FR: *Airbus a repoussé son avion à hydrogène — l'Amérique a choisi une autre voie*
+## 13. Airbus hidrojene hayır dedi ve haklıydı: Amerika'nın kanat-gövde kumarı
+- FR: *Airbus a dit non à l'hydrogène — et la physique lui donne raison face au pari américain*
 - Sahne: Toulouse ZEROe erteleme açıklaması; JetZero 235 milyon dolarlık USAF sözleşmesi.
 - Sonda sayı: JetZero'nun vaat ettiği yakıt tasarrufu yüzdesi ve Airbus'ın kendi ölçümü.
 
