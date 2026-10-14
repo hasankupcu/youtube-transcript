@@ -1,0 +1,5 @@
+# Kendi sunucunda (VPS) gunluk calistirmak icin: crontab -e
+# Her gun 03:00 UTC'de butun kanallar icin uret, Telegram'a onaya gonder.
+0 3 * * * cd /opt/youtube-transcript && /opt/venv/bin/python -m pipeline.run_daily render --all >> /var/log/yt-pipeline.log 2>&1
+# Onay kapisi istemiyorsan (tavsiye edilmez):
+# 0 3 * * * cd /opt/youtube-transcript && /opt/venv/bin/python -m pipeline.run_daily auto --all >> /var/log/yt-pipeline.log 2>&1

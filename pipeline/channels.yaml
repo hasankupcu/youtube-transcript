@@ -1,0 +1,58 @@
+# Her kanal icin ayri satir. youtube_token dosyasi auth_youtube.py ile uretilir.
+defaults:
+  script_model: claude-opus-5-5
+  target_minutes: 9
+  seconds_per_scene: 7
+  width: 1920
+  height: 1080
+  fps: 25
+  music_volume: 0.08
+  category_id: "22"
+  thumbnail_font: /usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
+
+channels:
+  en:
+    name: "English channel"
+    language: en
+    language_name: English
+    tts_provider: elevenlabs
+    voice_id: "REPLACE_WITH_VOICE_ID"
+    publish_hour_utc: 14
+    youtube_token: secrets/youtube_en.json
+    music: assets/music/calm.mp3
+  fr:
+    name: "Chaine francaise"
+    language: fr
+    language_name: French
+    tts_provider: fish
+    voice_id: "REPLACE_WITH_REFERENCE_ID"
+    publish_hour_utc: 15
+    youtube_token: secrets/youtube_fr.json
+    music: assets/music/calm.mp3
+  es:
+    name: "Canal espanol"
+    language: es
+    language_name: Spanish
+    tts_provider: elevenlabs
+    voice_id: "REPLACE_WITH_VOICE_ID"
+    publish_hour_utc: 16
+    youtube_token: secrets/youtube_es.json
+    music: assets/music/calm.mp3
+  de:
+    name: "Deutscher Kanal"
+    language: de
+    language_name: German
+    tts_provider: elevenlabs
+    voice_id: "REPLACE_WITH_VOICE_ID"
+    publish_hour_utc: 13
+    youtube_token: secrets/youtube_de.json
+    music: assets/music/calm.mp3
+  it:
+    name: "Canale italiano"
+    language: it
+    language_name: Italian
+    tts_provider: fish
+    voice_id: "REPLACE_WITH_REFERENCE_ID"
+    publish_hour_utc: 15
+    youtube_token: secrets/youtube_it.json
+    music: assets/music/calm.mp3
