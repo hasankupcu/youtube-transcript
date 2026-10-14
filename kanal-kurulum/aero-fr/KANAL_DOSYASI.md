@@ -3,7 +3,7 @@ Haskan Ayrışma Protokolü v3.0 · 2026-10-14 · Akış: kesintisiz F0–F4 · 
 
 **Varsayımlar (sorulmadı, varsayıldı)**
 - Portföy hafızası (`/areas/youtube-portfolio-expansion.md`) ve `KALIBRASYON_DEFTERI.md` bu ortamda yok → portföy çakışma kontrolü yalnızca bu oturumdaki veriyle yapıldı.
-- Hedef dil **Fransızca** (grid: FR hücresi açık, yerli havacılık talebi DE'den büyük). DE ilk dil çarpanı adayı. Haskan başka dil derse §F1 grid satırı hazır.
+- Hedef dil **Fransızca** — Haskan onayladı (2026-10-14). DE ilk dil çarpanı adayı.
 - Senaryo uzunluğu belirtilmedi → 10.000–12.000 karakter varsayıldı; Süre Eşleme açığı kartta.
 - Kanal adı önerilmedi (kural). Karakter adı önerildi (F3).
 - Araç kısıtları: `i.ytimg.com` erişimi engelli → kapak OCR ve poster testi "veri yok". vidIQ kredisi bitmiş → başlık/kapak skoru "veri yok". NexLev `search_videos` başlık eşlemesi gürültülü → grid için `youtube_search` kullanıldı.
@@ -416,7 +416,7 @@ HAP izi: Yapı Genomu → imza geçişler, Süre Eşleme → HEDEF_KARAKTER/SES_
 ---
 
 ## Açık kararlar (Haskan'ın)
-1. **Hedef dil FR varsayıldı.** DE/IT/ES satırları grid'de hazır; değişirse F3 kimlik ve F4 paket yeniden yazılır (iskelet aynı).
+1. ~~Hedef dil~~ **FR onaylandı** (Haskan, 2026-10-14). DE/IT çarpan sırası F5'te.
 2. **Süre açığı:** 12.000 karakter ≈ 14 dk, rakip medyanının %60'ı. Format süresi 20.000 karakter (~24 dk). Dürüst eleştiri: bu formatta izlenme 20+ dk belgesellere gidiyor (11 hit'in süresi 14–31 dk, medyan 23); 14 dk mid-roll sayısını ve AVD dakikasını düşürür. Öneri: ilk 3 videoyu 18.000–20.000 ile çıkar, 4. videoda kendi AVD'ne göre karar ver.
 3. **Portföy çakışma kontrolü yapılamadı** (hafıza dosyası yok). Haskan'ın mevcut FR kanallarında askeri/havacılık vaadi varsa yamyamlık riski; varsa bu konsept o kanala seri olur.
 4. **Poster testi ve kapak OCR yapılamadı** (i.ytimg.com erişimi engelli). Haskan ilk kapağı rakibin P90 kapaklarıyla (States: 7t4mcGmHJI0, X9TzgY1xkoA, 2_mJwvudG3Q, 478B1wgUrks; Mach Line: WqraDHwUCIU, StaSnq31ick) `hap.py poster` kolajında kıyaslar.
